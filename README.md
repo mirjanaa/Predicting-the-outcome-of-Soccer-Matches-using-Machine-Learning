@@ -7,7 +7,7 @@ Projekat je izradjen u okviru kursa Mašinsko učenje na master studijama Matema
 # Opis skupa podataka
 
 1. **Skup podataka :** 
-   - [Python](https://www.kaggle.com/datasets/hugomathien/soccer)
+   - [Soccer database](https://www.kaggle.com/datasets/hugomathien/soccer)
 
 2. **Opis:**
    - Dati skup podataka opsuje fudbalske utakmice odigrane u Evropi. To je učinjeno kroz kroz 7 relacionih tabela, koje sadrže podatke o mečevima, ligama, zemljama, igračima, atributima igrača, timovima i atributima timova. Kako je cilj ovog projekta predvidjanje rezultata mečeva, kao glavna tabela u okviru projekta je korišćena tabela mečevi, koja je potom putem stranih ključeva, koji su definisani u bazi podataka, izpovezivana sa drugim tabelama. Ispod možete pogledati idejno kako izgleda opisana baza podtaka.
