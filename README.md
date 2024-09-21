@@ -17,7 +17,7 @@ Projekat je izradjen u okviru kursa Mašinsko učenje na master studijama Matema
 https://github.com/thomas-brink/CS229-Project/blob/main/CS229_Project_Report.pdf
 
 # Instalacije i testiranje
-Sve potrebne biblioteke koje su korišćene u toku izrade projekta se nalaze u `requirements.txt`, i to možete uraditi pokretanjem sledećih komande:
+Sve potrebne biblioteke koje su korišćene u toku izrade projekta se nalaze u `requirements.txt`, možete ih instalirati pokretanjem sledćih komandi:
 
 ```
 sudo apt-get update
@@ -27,7 +27,7 @@ python3.8 -m pip install -r requirements.txt
 ```
 ### Testiranje:
 
-U direktorijumu `./src` pokrenuti sledeće komande:
+U direktorijumu `./src` pokrenuti sledeću komandu:
 
 ```jupyter notebook```
 
